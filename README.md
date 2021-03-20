@@ -13,7 +13,7 @@ I'm focused in front-end developing, CSS, HTML , JS are my stunning main languag
   - ReactJs
   - NodeJs
 
-😄 Fun fact : i love creating wallpapers and digital arts in general , here is my arts on pinterest :
+😄 Fun fact : i love creating wallpapers and digital arts in general , here are my arts on pinterest :
 
 🌱 https://br.pinterest.com/jhonatasbarros32/
 
