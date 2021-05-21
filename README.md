@@ -1,7 +1,9 @@
 ### Hi there 😄 , i'm Jhonatas, but u can call me John =)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Murielson)](https://github.com/Murielson)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-rodrigues-b26200174)](https://www.linkedin.com/in/jhonatas-rodrigues-b26200174)
->
+
+:link: My personal website : https://jrbarroz.netlify.app/
+
 I love website developing and i want learn ever more from this.
 I'm focused in front-end developing, CSS, HTML , JS are my stunning main languages <3
 > Currently working in these projects :
