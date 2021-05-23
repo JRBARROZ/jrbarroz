@@ -7,7 +7,7 @@
 I love website developing and i want learn ever more from this.
 I'm focused in front-end developing, CSS, HTML , JS are my stunning main languages <3
 > Currently working in these projects :
-  - :dart: https://github.com/JRBARROZ/Dogs - ReactJS
+  - :dart: https://dogsgram.netlify.app - ReactJS
   - :dart: https://github.com/JRBARROZ/Web2-vue/tree/main/todo - VueJs
 > Here are some projects who i participated in the front-end development :
   - 🌱 https://comdicaaracoiabape.com.br/ 
