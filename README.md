@@ -1,5 +1,5 @@
 ### Hi there 😄 , i'm Jhonatas, but u can call me John =)
-if u have a problem, only ask to me, i love to help <3
+if u any have a problem, only call me, i love to help <3
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Murielson)](https://github.com/Murielson)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatas-rodrigues-b26200174)](https://www.linkedin.com/in/jhonatas-rodrigues-b26200174)
