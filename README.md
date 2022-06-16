@@ -6,7 +6,7 @@ if u have any have a problem, only call me, i love to help <3
 
 :link: My personal website : https://jrbarroz.netlify.app/
 
-I love website developing and i want learn ever more from this.
+I love front-end and i want learn more and more of it.
 I'm focused in front-end developing, CSS, HTML , JS are my stunning main languages <3
 > Currently working in these projects :
   - :dart: https://dogsgram.netlify.app - ReactJS
