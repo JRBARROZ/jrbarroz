@@ -12,6 +12,7 @@ I'm focused in front-end & mobile developing, Javascript, HTML & CSS, Kotlin are
 > Recents projects :
   - :dart:  - [Today - Do The Thing Not Tomorrow, do Today](https://github.com/JRBARROZ/today) -> Pure Javascript project to teach my students.
   - :dart:  - [Wuba Luba Dub Dub, RickGraphql](https://rickgraphql.vercel.app/) -> Project that teach me graphql & Nextjs ❣️
+  - :dart:  - [PoCrypt](https://github.com/JRBARROZ/thirdweb) -> Project to learn more about thirdWeb and Crypt <3
 > Some amazing old projects that have good vibes ✨ :
   - 🌱 [Be Alpha](https://github.com/JRBARROZ/Web2-vue/tree/main/todo) -> Project aimed to learn vue.js
   - 🌱 [Wof Wof, dogsgram](https://github.com/JRBARROZ/Dogs) -> A Social media for Dogs , my first React.js project.
