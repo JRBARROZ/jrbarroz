@@ -9,6 +9,17 @@ Passionate in mobile in hybrid and native mobile development <3
 
 I love website developing and to build mobile apps, i want learn more and more of it.
 I'm focused in front-end & mobile developing, Javascript, HTML & CSS, Kotlin are my stunning main languages <3
+
+#### BREAKING CHANGE
+
+Glad to participate and lead the construction of 🚲 Ibirapuera Park - @Ibirabike
+
+- 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108)
+- 🤖 [Ibirabike Play Store](https://play.google.com/store/apps/details?id=com.ibirabike.user&hl=en_US)
+
+---
+
+
 > Recents projects :
   - :dart:  - [Today - Do The Thing Not Tomorrow, do Today](https://github.com/JRBARROZ/today) -> Pure Javascript project to teach my students.
   - :dart:  - [Wuba Luba Dub Dub, RickGraphql](https://rickgraphql.vercel.app/) -> Project that teach me graphql & Nextjs ❣️
