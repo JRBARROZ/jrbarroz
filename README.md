@@ -12,7 +12,7 @@ I'm focused in front-end & mobile developing, Javascript, HTML & CSS, Kotlin are
 
 #### BREAKING CHANGE
 
-Glad to participate and lead the construction of 🚲 Ibirapuera Park - @Ibirabike
+Glad to participate and lead the mobile build of 🚲 Ibirapuera Park - @Ibirabike
 
 - 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108)
 - 🤖 [Ibirabike Play Store](https://play.google.com/store/apps/details?id=com.ibirabike.user&hl=en_US)
