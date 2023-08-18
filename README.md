@@ -17,6 +17,7 @@ I'm focused in front-end & mobile developing, Javascript, HTML & CSS, Kotlin are
   - 🌱 [Be Alpha](https://github.com/JRBARROZ/Web2-vue/tree/main/todo) -> Project aimed to learn vue.js
   - 🌱 [Wof Wof, dogsgram](https://github.com/JRBARROZ/Dogs) -> A Social media for Dogs , my first React.js project.
   - 🌱 [Gloves & Masks, Covid Tracker](https://github.com/JRBARROZ/covidtracker) -> Project did to show in dashboards live data from covid on 2021 - 2022
+  - 🌱 [Work Work Work, Alium](https://github.com/JRBARROZ/Alium) -> Project did for people that needs a side job, this project teach me more about PHP.
 
 #### About my currently focus
 > For now, i'm studying :
