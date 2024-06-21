@@ -14,7 +14,7 @@ I'm focused in front-end & mobile developing, Javascript, HTML & CSS, Kotlin are
 
 Glad to participate and lead the mobile build of 🚲 Ibirapuera Park - @Ibirabike
 
-- 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108) - 50K+ Downloads
+- 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108) - 100K+ Downloads
 - 🤖 [Ibirabike Play Store](https://play.google.com/store/apps/details?id=com.ibirabike.user&hl=en_US)
 
 ---
