@@ -12,6 +12,10 @@ I'm focused in front-end & mobile developing, Javascript, HTML & CSS, Kotlin are
 
 #### BREAKING CHANGE
 
+Leading team to sucess on handtalk as a Tech Leader!
+
+#### BREAKING CHANGE
+
 Glad to participate and lead the mobile build of 🚲 Ibirapuera Park - @Ibirabike
 
 - 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108) - 100K+ Downloads
