@@ -18,12 +18,11 @@ Leading team to sucess on handtalk as a Tech Leader!
 
 Glad to participate and lead the mobile build of 🚲 Ibirapuera Park - @Ibirabike
 
-- 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108) - 100K+ Downloads
-- 🤖 [Ibirabike Play Store](https://play.google.com/store/apps/details?id=com.ibirabike.user&hl=en_US)
-- 🤚🏻 Handtalk App
+- 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108) - 100K+ Downloads - 62k MAU
+- 🤖 [Ibirabike Play Store](https://play.google.com/store/apps/details?id=com.ibirabike.user&hl=en_US) - 62k MAU
+- 🤚🏻 [Handtalk App](https://play.google.com/store/apps/details?id=br.com.handtalk&hl=en) - 5M+ Downloads 300k+ MAU
 
 ---
-
 
 > Recents projects :
   - :dart:  - [Today - Do The Thing Not Tomorrow, do Today](https://github.com/JRBARROZ/today) -> Pure Javascript project to teach my students.
