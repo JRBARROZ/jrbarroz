@@ -7,20 +7,18 @@ Passionate in mobile in hybrid and native mobile development <3
 
 :link: My personal website : https://jrbarroz.com
 
-I love website developing and to build mobile apps, i want learn more and more of it.
-I'm focused in front-end & mobile developing, Javascript, HTML & CSS, Kotlin are my stunning main languages <3
+I love play with react native and mobile ecosystem, let's build a better society through acessible and memorable apps! Cheers 🥂
 
-#### BREAKING CHANGE
+#### BREAKING CHANGE (2025)
 
 Leading team to sucess on handtalk as a Tech Leader!
 
-#### BREAKING CHANGE
-
-Glad to participate and lead the mobile build of 🚲 Ibirapuera Park - @Ibirabike
+> My Main apps Contributions
 
 - 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108) - 100K+ Downloads - 62k MAU
 - 🤖 [Ibirabike Play Store](https://play.google.com/store/apps/details?id=com.ibirabike.user&hl=en_US) - 62k MAU
 - 🤚🏻 [Handtalk App](https://play.google.com/store/apps/details?id=br.com.handtalk&hl=en) - 5M+ Downloads 300k+ MAU
+- 💰 [Iriom App](https://play.google.com/store/apps/details?id=com.bankeiro.esiga&hl=en) - 20K+ Downloads 5k+ MAU
 
 😄 Fun fact : i love help the others, is part who i am, let's talk!
 
