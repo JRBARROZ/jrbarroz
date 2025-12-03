@@ -1,5 +1,5 @@
 ### Hi there 😄 , i'm Jhonatas, but u can call me John =)
-#### Front-End | Mobile Developer | Front Teacher
+#### Mobile Developer | Tech Lead and Mentor
 Passionate in mobile in hybrid and native mobile development <3
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JRBARROZ)](https://github.com/JRBARROZ)
