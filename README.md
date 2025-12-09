@@ -20,6 +20,6 @@ Leading team to sucess on handtalk as a Tech Leader!
 - 🤚🏻 [Handtalk App](https://play.google.com/store/apps/details?id=br.com.handtalk&hl=en) - 5M+ Downloads 300k+ MAU
 - 💰 [Iriom App](https://play.google.com/store/apps/details?id=com.bankeiro.esiga&hl=en) - 20K+ Downloads 5k+ MAU
 
-😄 Fun fact : i love help the others, is part who i am, let's talk!
+😄 Fun fact : i love help the others. Is it part who i am, let's talk!
 
 https://cal.com/jrbarroz
